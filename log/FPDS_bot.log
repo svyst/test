@@ -1,0 +1,11 @@
+'07/06/2020 12:13:02' - mainFPDS - INFO - FPDS bot execution started
+'07/06/2020 12:13:02' - mainFPDS - INFO - Config file successfully read
+'07/06/2020 12:13:02' - source.emails - INFO - Searching last letter started
+'07/06/2020 12:13:05' - source.excel - INFO - Parsing of input file started
+'07/06/2020 12:13:05' - mainFPDS - INFO - Bot started scrapping process on FPDS site
+'07/06/2020 12:13:07' - source.scrapping - INFO - Parsing of Search names started. Got 297 search names.
+'07/06/2020 12:13:31' - source.scrapping - INFO - Parsing of forms started. Got 2 forms hrefs.
+'07/06/2020 12:13:47' - source.excel - INFO - Start adding status to input processed tab
+'07/06/2020 12:13:48' - source.excel - INFO - Start writing output
+'07/06/2020 12:13:48' - source.emails - INFO - Sending mail about successfully work
+'07/06/2020 12:13:51' - mainFPDS - INFO - FPDS bot execution ended.
